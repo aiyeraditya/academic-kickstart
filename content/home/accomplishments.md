@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Projects"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,36 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Thutupalli Lab, NCBS"
+  organization_url = "https://www.thutupallilab.com"
+  title = "An experimental model system for understanding metabolic scaling"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate = "Link to Thesis"
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2019-08-01"
+  date_end = "2020-06-30"
+  description = "A small descriptor of the project"
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Flight Lab, NCBS"
+  organization_url = "https://www.ncbs.res.in/faculty/sane"
+  title = "Understanding the Role of Halteres in Control of Insect Flight"
   url = ""
+  certificate = "Link to Thesis"
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  date_start = "2018-10-01"
+  date_end = "2019-06-30"
+  description = "A small descriptor of the project"
 
+[[item]]
+  organization = "O'Connell Lab, Stanford University"
+  organization_url = "https://oconnell.stanford.edu"
+  title = "Tadpole Begging: Diet and Toxicity"
+  url = ""
+  certificate = "Link to Report"
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2018-05-15"
+  date_end = "2019-08-01"
+  description = "A small descriptor of the project"
 +++
