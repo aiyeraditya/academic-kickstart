@@ -57,8 +57,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   gradient_start = "#b1f2f2"
+   gradient_end = "#b1f2c0"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

@@ -14,25 +14,27 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
+- name: he/his
+  url: ""
 - name: caesar
   url: "https://www.caesar.de/en/"
 - name: International Max Planck Research School of Brain and Behaviour
   url: "http://www.imprs-brain-behavior.org"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests understanding the neural basis of behaviour and sensory perception
+bio: Aditya is a first year graduate student, trying to understand the neural basis of behaviour.
 
 interests:
 - Neuroethology
-- Behaviour
+- Engineering
 
 education:
   courses:
   - course: MSc (Research)
-    institution: Indian Insitute of Science
+    institution: Indian Institute of Science
     year: 2020
   - course: BSc (Research)
-    institution: Indian Insitute of Science
+    institution: Indian Institute of Science
     year: 2015-19
 
 # Social/Academic Networking
@@ -54,9 +56,9 @@ social:
   link: https://github.com/aiyeraditya
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: "files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a first year graduate student at the IMPRS for Brain and Behaviour, working with Prof. Kevin Briggman. My project involves elucidating the devleopment of neural circuits for locomotion during metamorphosis, in the tadpole _Xenopus tropicalis_.
+I am a first year graduate student at the IMPRS for Brain and Behaviour, working with Prof. Kevin Briggman. My project involves elucidating the development of neural circuits for locomotion during metamorphosis, in the tadpole _Xenopus tropicalis_.
 
 My interests lie in understanding the neural bases of behaviour, and building tools to make studying behaviour a bit easier.

@@ -11,4 +11,10 @@ title = "About Me"
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
+
+[design.background]
+  # Background gradient.
+  gradient_start = "#b1b5f2"
+  gradient_end = "#b1f2f2"
+
 +++
