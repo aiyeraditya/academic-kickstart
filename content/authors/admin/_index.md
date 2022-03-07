@@ -19,14 +19,15 @@ organizations:
 - name: caesar
   url: "https://www.caesar.de/en/"
 - name: International Max Planck Research School of Brain and Behaviour
-  url: "http://www.imprs-brain-behavior.org"
+  url: "https://imprs-brain-behavior.mpg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Aditya is a first year graduate student, trying to understand the neural basis of behaviour.
+bio: Aditya is a graduate student at the MPINB-caesar, interested in the neural basis of behaviour.
 
 interests:
 - Neuroethology
 - Engineering
+- Science Communication
 
 education:
   courses:
@@ -37,20 +38,16 @@ education:
     institution: Indian Institute of Science
     year: 2015-19
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#mailto:aiyeraditya@ncbs.res.in'  # For a direct email link, use "mailto:test@example.org".
+  link: '#mailto:aditya.iyer@mpinb.mpg.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/aiyeraditya
-# - icon: google-scholar
-# icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?hl=de&user=mhNm6GEAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/aiyeraditya
@@ -70,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a first year graduate student at the IMPRS for Brain and Behaviour, working with Prof. Kevin Briggman. My project involves elucidating the development of neural circuits for locomotion during metamorphosis, in the tadpole _Xenopus tropicalis_.
+I am a second year graduate student at the Max Planck Institute for the Neurobiology of behaviour - caesar, working with Dr. Kevin Briggman. My project involves elucidating the development of neural circuits for locomotion during metamorphosis, in the tadpole _Xenopus tropicalis_.
 
 My interests lie in understanding the neural bases of behaviour, and building tools to make studying behaviour a bit easier.

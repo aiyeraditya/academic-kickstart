@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = ""
+subtitle = "Reach out to me"
 
 # Automatically link email and phone?
 autolink = true
@@ -27,7 +27,7 @@ email_form = 0
   # color = "navy"
   
   # Background gradient.
-   gradient_start = "#e0f2b1"
-   gradient_end = "#f2e1b1"
+   gradient_start = "#b1f2c0"
+   gradient_end = "#e0f2b1"
 +++
 
