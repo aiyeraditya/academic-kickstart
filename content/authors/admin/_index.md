@@ -67,8 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Aditya is a neuroscientist in training. (More about identity)
+I am a third year graduate student at the Max Planck Institute for the Neurobiology of behaviour - caesar, working with Dr. Kevin Briggman. My project involves elucidating the development of neural circuits for locomotion during metamorphosis, in the tadpole _Xenopus tropicalis_.
 
-In his Phd project, he uses behavioural, histological and electrophysiological tools to study the development of locomotion in the western clawed frog.
-
-While not working, 
+My interests lie in understanding the neural bases of behaviour, and building tools to make studying behaviour a bit easier.
