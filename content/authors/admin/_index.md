@@ -16,13 +16,13 @@ role: PhD student
 organizations:
 - name: he/his
   url: ""
-- name: caesar
-  url: "https://www.caesar.de/en/"
+- name: Max Planck Institute for Neurobiology of Behaviour - caesar
+  url: "https://www.mpinb.mpg.de/en/"
 - name: International Max Planck Research School of Brain and Behaviour
   url: "https://imprs-brain-behavior.mpg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Aditya is a graduate student at the MPINB-caesar, interested in the neural basis of behaviour.
+bio: Aditya is a graduate student at MPINB-caesar. He studies development of locomotion during metamorphosis in the western clawed frog
 
 interests:
 - Neuroethology
@@ -67,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-I am a second year graduate student at the Max Planck Institute for the Neurobiology of behaviour - caesar, working with Dr. Kevin Briggman. My project involves elucidating the development of neural circuits for locomotion during metamorphosis, in the tadpole _Xenopus tropicalis_.
+Aditya is a neuroscientist in training. (More about identity)
 
-My interests lie in understanding the neural bases of behaviour, and building tools to make studying behaviour a bit easier.
+In his Phd project, he uses behavioural, histological and electrophysiological tools to study the development of locomotion in the western clawed frog.
+
+While not working, 

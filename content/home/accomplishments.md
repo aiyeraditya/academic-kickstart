@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   date_end = "2019-08-01"
   description = "Poison Frogs, Parental Care, Behaviour"
   
-[design.background]
+ [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -71,8 +71,5 @@ date_format = "Jan 2006"
   
   # Background color.
   # color = "navy"
-  
-  # Background gradient.
-   gradient_start = "#b1f2f2"
-   gradient_end = "#b1f2c0"
+
 +++
